@@ -1,0 +1,20 @@
+
+Tue 15:39:15  P-CAD 2001 Shape-Based Router Started on Tuesday, May 29, 2018
+Tue 15:39:16  Loaded file C:\Users\Король Андрей\Documents\P-CAD PCB\PES_SBR.prf
+Tue 15:45:48  NeuralNet class C2
+Tue 15:45:48  Fan-Out Pass 1: Completed: 0 connections in 0.1 seconds
+Tue 15:45:48  Memory  Pass 1: Completed 0 connections in 0.0 seconds
+Tue 15:45:48  Memory  Pass 2: Completed 21 connections in 0.0 seconds
+Tue 15:45:49  Pattern Pass 1:   0.0min.  70%   21U   0C,   0V "U/P/U"
+Tue 15:45:49  Pass  1:   0.0min.  73%   52R   19U   0C   1V
+Tue 15:45:49  Pass  2:   0.0min.  73%   52R   19U   0C   1V
+Tue 15:45:49  Pass  3:   0.0min.  73%   52R   19U   0C   1V
+Tue 15:45:49  Pass  4:   0.0min. 100%   71R    0U   0C   3V
+Tue 15:45:50  Mitre   Pass 1: Modified 39 out of 71 in 0.0 minutes
+Tue 15:45:50  Length on Top = 31.1"
+Tue 15:45:50  Length on Bottom = 43.3"
+Tue 15:45:50  Total vias = 3
+Tue 15:45:50  100% routed with no conflicts
+Tue 15:45:50  Total Time 00:00:01
+Tue 15:45:56  Saved as: C:\Users\Король Андрей\Documents\P-CAD PCB\PES_SBR.prf
+Tue 15:45:56  Memory used:  0% (2.687MB out of 2048.000MB)
